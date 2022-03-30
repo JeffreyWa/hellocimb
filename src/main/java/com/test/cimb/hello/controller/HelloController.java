@@ -15,7 +15,7 @@ public class HelloController {
         //for testing test test
         //for test gitlab gitlogin
 
-        return ResponseEntity.ok().body("Hello CIMB");
+        return ResponseEntity.ok().body("Hello HKEX");
     }
 
 
